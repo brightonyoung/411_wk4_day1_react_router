@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/brightonyoung/411_wk4_day1_react_router.git/static/css/main.19b65c4e.chunk.css",
+    "main.css": "/brightonyoung/411_wk4_day1_react_router.git/static/css/main.9abba578.chunk.css",
     "main.js": "/brightonyoung/411_wk4_day1_react_router.git/static/js/main.cea4aebe.chunk.js",
     "main.js.map": "/brightonyoung/411_wk4_day1_react_router.git/static/js/main.cea4aebe.chunk.js.map",
     "runtime-main.js": "/brightonyoung/411_wk4_day1_react_router.git/static/js/runtime-main.53a81847.js",
@@ -8,13 +8,13 @@
     "static/js/2.7c50db87.chunk.js": "/brightonyoung/411_wk4_day1_react_router.git/static/js/2.7c50db87.chunk.js",
     "static/js/2.7c50db87.chunk.js.map": "/brightonyoung/411_wk4_day1_react_router.git/static/js/2.7c50db87.chunk.js.map",
     "index.html": "/brightonyoung/411_wk4_day1_react_router.git/index.html",
-    "static/css/main.19b65c4e.chunk.css.map": "/brightonyoung/411_wk4_day1_react_router.git/static/css/main.19b65c4e.chunk.css.map",
+    "static/css/main.9abba578.chunk.css.map": "/brightonyoung/411_wk4_day1_react_router.git/static/css/main.9abba578.chunk.css.map",
     "static/js/2.7c50db87.chunk.js.LICENSE.txt": "/brightonyoung/411_wk4_day1_react_router.git/static/js/2.7c50db87.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.53a81847.js",
     "static/js/2.7c50db87.chunk.js",
-    "static/css/main.19b65c4e.chunk.css",
+    "static/css/main.9abba578.chunk.css",
     "static/js/main.cea4aebe.chunk.js"
   ]
 }
